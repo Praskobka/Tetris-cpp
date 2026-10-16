@@ -1,0 +1,21 @@
+# Core
+# Build/IDE
+build/
+.vs/
+out/
+bin/
+obj/
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pdb
+*.exe
+*.dll
+
+# Distribution
+dist/
+
+# vcpkg
+vcpkg_installed/
