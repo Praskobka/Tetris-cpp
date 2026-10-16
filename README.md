@@ -34,7 +34,7 @@ This project is a graphical version of the classic puzzle game Tetris. It featur
 ## How to Run the Precompiled Release
 1. Download the `TetrisGame-Windows-x64.zip` archive from the Releases section.
 2. Extract the archive to any folder on your Windows PC.
-3. Open the extracted `TetrisGame_Final` folder.
+3. Open the extracted folder.
 4. Run `tetris.exe`.
 
 *Note: If the game fails to launch, ensure you have the [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) installed.*
